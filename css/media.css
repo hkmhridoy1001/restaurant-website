@@ -28,6 +28,7 @@
     }
     .banner_right_txt {
         text-align: center;
+        padding-bottom: 0px;
     }
     .banner_right_txt h1 {
         font-size: 45px;
@@ -262,6 +263,7 @@
     }
     .banner_right_txt {
         text-align: center;
+        padding-bottom:0;
     }
     .banner_right_txt h1 {
         font-size: 45px;
