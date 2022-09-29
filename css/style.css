@@ -602,7 +602,10 @@ html{
 	padding-top: 80px;
 }
 /* copyright section end  */
-
+/* root edit */
+.container {
+	overflow: hidden;
+}
 
 /* font-family: 'Grand Hotel', cursive;
 font-family: 'Montserrat', sans-serif;
