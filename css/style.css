@@ -606,6 +606,9 @@ html{
 .container {
 	overflow: hidden;
 }
+.banner_right_txt {
+	padding-bottom: 268px;
+}
 
 /* font-family: 'Grand Hotel', cursive;
 font-family: 'Montserrat', sans-serif;
